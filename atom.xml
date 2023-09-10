@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MARD1NO.github.io/</id>
+    <title>ZZK&apos;s Blog</title>
+    <updated>2023-09-10T02:28:09.640Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://MARD1NO.github.io/"/>
+    <link rel="self" href="https://MARD1NO.github.io/atom.xml"/>
+    <subtitle>Nothing new</subtitle>
+    <logo>https://MARD1NO.github.io/images/avatar.png</logo>
+    <icon>https://MARD1NO.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, ZZK&apos;s Blog</rights>
+</feed>
